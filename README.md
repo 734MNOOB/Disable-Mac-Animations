@@ -59,6 +59,6 @@ Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-anima
 
 ---
 
-Also Reduce Motion
+Also Reduce Motion and Transparency
 
-![reduce sierra motion](https://i.imgur.com/yEHJjpd.jpg)
+![reduce sierra motion and transparency](https://i.imgur.com/kijBOFY.png)
